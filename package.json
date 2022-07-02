@@ -1,0 +1,19 @@
+{
+  "name": "repo002",
+  "version": "1.0.0",
+  "description": "package002",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitrep002"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "author": "karen m",
+  "license": "UNLICENSED"
+}
