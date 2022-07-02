@@ -10,6 +10,10 @@
     "type": "git",
     "url": "gitrep002"
   },
+  "dependencies": {
+    "vue": "^2.5.2",
+    "ionic": "1.6.5"
+  },
   "keywords": [
     "keyword1",
     "keyword2"
