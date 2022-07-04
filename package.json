@@ -11,7 +11,7 @@
     "url": "gitrep002"
   },
   "dependencies": {
-    "vue": "^2.5.2",
+    "vue": "^3.2.37",
     "ionic": "1.6.5"
   },
   "keywords": [
